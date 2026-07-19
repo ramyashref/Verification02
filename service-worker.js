@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "highfield-verification-v10-results";
+const CACHE_NAME = "highfield-verification-v2-landing";
 const CORE = [
   "./",
   "index.html",
